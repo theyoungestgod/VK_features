@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h{
+    width: fit-content;
+    margin: 0 auto;
+    background-color: cadetblue;
+}
+   
